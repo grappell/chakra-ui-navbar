@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-For this project I extensively used Chakra Ui.
+For this project I extensively used Chakra Ui. It is so much better than using custom CSS.
 
 ## Getting Started
 
